@@ -1,4 +1,4 @@
-import { Moon, Sun, Wallet } from 'lucide-react';
+import { Moon, Sun } from 'lucide-react';
 import { useDashboard } from '../../context/DashboardContext';
 import { Button } from '../ui/Button';
 
